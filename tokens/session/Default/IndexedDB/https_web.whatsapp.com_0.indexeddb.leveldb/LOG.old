@@ -1,0 +1,29 @@
+2022/04/24-12:17:50.674 1e80 Reusing MANIFEST C:\Users\Carlos Tingu\Documents\electron-projects\wpp-bot\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/24-12:17:50.674 1e80 Recovering log #96
+2022/04/24-12:17:50.706 1e80 Reusing old log C:\Users\Carlos Tingu\Documents\electron-projects\wpp-bot\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000096.log 
+2022/04/24-12:18:49.030 2258 Level-0 table #103: started
+2022/04/24-12:18:49.064 2258 Level-0 table #103: 1189685 bytes OK
+2022/04/24-12:18:49.066 2258 Delete type=0 #96
+2022/04/24-12:18:49.449 1e80 Compacting 1@1 + 3@2 files
+2022/04/24-12:18:49.544 1e80 Generated table #104@1: 34243 keys, 2240570 bytes
+2022/04/24-12:18:49.631 1e80 Generated table #105@1: 30497 keys, 2257367 bytes
+2022/04/24-12:18:49.769 1e80 Generated table #106@1: 51261 keys, 1245954 bytes
+2022/04/24-12:18:49.769 1e80 Compacted 1@1 + 3@2 files => 5743891 bytes
+2022/04/24-12:18:49.770 1e80 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/04/24-15:12:11.931 1e18 Level-0 table #108: started
+2022/04/24-15:12:11.975 1e18 Level-0 table #108: 1200298 bytes OK
+2022/04/24-15:12:11.978 1e18 Delete type=2 #98
+2022/04/24-15:12:11.978 1e18 Delete type=2 #99
+2022/04/24-15:12:11.978 1e18 Delete type=2 #100
+2022/04/24-15:12:11.978 1e18 Delete type=0 #102
+2022/04/24-15:12:11.978 1e18 Delete type=2 #103
+2022/04/24-15:14:32.008 1e80 Compacting 1@1 + 3@2 files
+2022/04/24-15:14:32.120 1e80 Generated table #109@1: 35514 keys, 2241356 bytes
+2022/04/24-15:14:32.198 1e80 Generated table #110@1: 28069 keys, 2256887 bytes
+2022/04/24-15:14:32.254 1e80 Generated table #111@1: 57219 keys, 1388826 bytes
+2022/04/24-15:14:32.254 1e80 Compacted 1@1 + 3@2 files => 5887069 bytes
+2022/04/24-15:14:32.256 1e80 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/04/24-15:14:32.256 1e80 Delete type=2 #104
+2022/04/24-15:14:32.256 1e80 Delete type=2 #105
+2022/04/24-15:14:32.256 1e80 Delete type=2 #106
+2022/04/24-15:14:32.256 1e80 Delete type=2 #108

@@ -1,0 +1,21 @@
+{
+  "name": "wpp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "chat"
+  ],
+  "author": "Carlos Tingu",
+  "license": "mit",
+  "devDependencies": {
+    "electron": "^18.1.0"
+  },
+  "dependencies": {
+    "venom-bot": "^4.0.10"
+  }
+}

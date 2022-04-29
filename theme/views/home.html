@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data:; script-src 'self'">
+
+    <link rel="stylesheet" href="../assets/styles/bootstrap.min.css">
+
+    <title>BOT</title>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div id="statusBlock" class="d-flex justify-content-center flex-column align-items-center mt-4"></div>
+
+        <div id="qrCodeBlock" class="d-flex justify-content-center flex-column align-items-center mt-4">
+            <div class="spinner-border" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+
+            <sub class="text-muted mt-4">Buscando atualizações...</sub>
+        </div>
+
+        <div class="d-flex justify-content-center flex-column align-items-center mt-4">
+            <button type="button" class="w-40 btn btn-success" id="btnShowContacts">Contatos</button>
+        </div>
+    </div>
+
+    <script src="../assets/scripts/bootstrap.bundle.min.js"></script>
+
+    <script type="module" src="../assets/scripts/home.js"></script>
+</body>
+
+</html>
